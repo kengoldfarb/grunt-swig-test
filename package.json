@@ -1,0 +1,10 @@
+{
+  "name": "grunt-swig-test",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-swig": "^0.2.1",
+    "swig": "~> 1.1.0"
+  }
+}
